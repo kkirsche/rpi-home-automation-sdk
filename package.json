@@ -1,0 +1,12 @@
+{
+  "name": "rpi-home-automation-sdk",
+  "version": "1.0.0",
+  "description": "Rasperberry Pi Home Automation Library",
+  "main": "index.js",
+  "repository": "https://github.com/kkirsche/rpi-home-automation-sdk.git",
+  "author": "Kevin Kirsche and Andrew Bates",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.5"
+  }
+}
